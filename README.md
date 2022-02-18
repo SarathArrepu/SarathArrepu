@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Markdown module in Web applications
 - 🌱 I’m currently learning web Application, Database & Object oriented Programming 
-- 👯 I’m looking to collaborate on Big Data & Data Analytics with Dr. N.Eloe .
+- 👯 I’m looking to collaborate on Big Data & Data Analytics
 - 🤔 I’m looking for help with Python Application Automation.
 - 💬 Ask me about my personal intrests
 - 📫 How to reach me: You can reach on +1-6605281905 and mail at a.sarath2090737@gmail.com
